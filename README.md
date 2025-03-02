@@ -11,7 +11,7 @@
     - Il peut être associé au design pattern Abstract factory.
 
 2. Structure simple
-                            ```plaintext
+```
   __________________                  ____________________
  |      Sensor       |       prototype|      Client       |
  |__________________|  <-----------  | _________________ |
